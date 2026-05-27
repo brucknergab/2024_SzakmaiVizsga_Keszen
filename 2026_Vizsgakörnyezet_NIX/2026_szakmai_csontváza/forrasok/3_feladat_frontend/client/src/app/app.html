@@ -1,0 +1,75 @@
+<body class="bg-blue-600 min-h-screen text-black min-w-screen flex flex-col">
+    <!-- FEJLÉC -->
+    <header class="bg-blue-600 h-24 min-w-full flex items-center justify-center  relative top-0">
+        <h1 class="text-white font-medium text-3xl">Vizsga Feladat</h1>
+    </header>
+
+
+    <!-- FŐ KONTÉNER -->
+    <main class="min-w-full container mx-auto mt-8 px-4 flex flex-col">
+        
+        <!-- GOMBOK ÉS KERESŐK -->
+        <section class="bg-white shadow rounded-lg p-6 flex flex-row md:flex-row gap-4 items-center">
+
+                        <button (click)="loadAll()" class="px-4 py-1 rounded-2xl bg-green-600 hover:cursor-pointer hover:bg-green-500 transition duration-400">
+                Összes Tablet Listázása
+            </button>
+
+            <div>
+                <button (click)="loadById()" class="px-4 py-1 rounded-2xl bg-green-600 hover:cursor-pointer hover:bg-green-500 transition duration-400">
+                Listázás Id alapján:
+            </button>
+            <input type="number" [(ngModel)]="searchId" class="ml-2 bg-blue-200">
+            </div>
+
+
+
+                        <div>
+                <button (click)="loadByGyarto()" class="px-4 py-1 rounded-2xl bg-green-600 hover:cursor-pointer hover:bg-green-500 transition duration-400">
+                Listázás Id Gyártó alapján:
+            </button>
+            <input type="text" [(ngModel)]="searchGyarto" class="ml-2 bg-blue-200">
+            </div>
+
+
+        </section>
+
+        <!-- KÁRTYÁK LISTÁJA -->
+        <section class="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 my-10 gap-8">
+
+          @for (tablet of items; track tablet.id) {
+
+            <div class="bg-white rounded-2xl shadow-md hover:shadow-xl overflow-hidden hover:cursor-pointer">
+                <img [src]="tablet.kep" alt="jatekkepe" class="w-full h-48 object-cover bg-gray-300">
+                <div class="p-6" >
+                    <span class="text-xs font-bold text-blue-600 uppercase tracking-wide">
+                        {{tablet.operacios_rendszer}}
+                    </span>
+                    <h4 class="text-xl font-bold mt-2" >
+                        {{tablet.ar}}
+                    </h4>
+                    <p class="text-gray-600 mt-2 text-sm leading-relaxed">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    </p>
+                    <p>{{tablet.gyarto}}</p>
+                </div>
+            </div>
+          }
+
+        </section>
+
+
+        
+        <!-- HIBAÜZENET -->
+        <section class="my-4">
+            @if (errorMessage) {
+                <div class="bg-red-400">
+                    <p>{{errorMessage}}</p>
+                </div>
+            }
+        </section>
+
+        
+    </main>
+
+</body>
