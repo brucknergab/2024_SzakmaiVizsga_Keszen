@@ -1,0 +1,14 @@
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\bin\Debug\net10.0\ConsoleApplication.exe
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\bin\Debug\net10.0\ConsoleApplication.deps.json
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\bin\Debug\net10.0\ConsoleApplication.runtimeconfig.json
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\bin\Debug\net10.0\ConsoleApplication.dll
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\bin\Debug\net10.0\ConsoleApplication.pdb
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\obj\Debug\net10.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\obj\Debug\net10.0\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\obj\Debug\net10.0\ConsoleApplication.AssemblyInfo.cs
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\obj\Debug\net10.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\obj\Debug\net10.0\ConsoleApplication.dll
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\obj\Debug\net10.0\refint\ConsoleApplication.dll
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\obj\Debug\net10.0\ConsoleApplication.pdb
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\obj\Debug\net10.0\ConsoleApplication.genruntimeconfig.cache
+C:\Users\bruck\Documents\NIX\3Probavizsga\2026_Vizsgakörnyezet_NIX\2026_szakmai_csontváza\forrasok\4_feladat_console\ConsoleApplication\ConsoleApplication\obj\Debug\net10.0\ref\ConsoleApplication.dll

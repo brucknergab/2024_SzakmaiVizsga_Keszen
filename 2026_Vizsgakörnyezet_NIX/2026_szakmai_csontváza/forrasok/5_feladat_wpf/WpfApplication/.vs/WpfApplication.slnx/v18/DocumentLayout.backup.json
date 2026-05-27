@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\5_feladat_wpf\\WpfApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8466F877-AE88-A591-77C6-E9332B4D5E24}|WpfApplication\\WpfApplication.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\5_feladat_wpf\\wpfapplication\\wpfapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8466F877-AE88-A591-77C6-E9332B4D5E24}|WpfApplication\\WpfApplication.csproj|solutionrelative:wpfapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8466F877-AE88-A591-77C6-E9332B4D5E24}|WpfApplication\\WpfApplication.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\5_feladat_wpf\\wpfapplication\\wpfapplication\\futo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8466F877-AE88-A591-77C6-E9332B4D5E24}|WpfApplication\\WpfApplication.csproj|solutionrelative:wpfapplication\\futo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8466F877-AE88-A591-77C6-E9332B4D5E24}|WpfApplication\\WpfApplication.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\5_feladat_wpf\\wpfapplication\\wpfapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8466F877-AE88-A591-77C6-E9332B4D5E24}|WpfApplication\\WpfApplication.csproj|solutionrelative:wpfapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Futo.cs",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\5_feladat_wpf\\WpfApplication\\WpfApplication\\Futo.cs",
+              "RelativeDocumentMoniker": "WpfApplication\\Futo.cs",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\5_feladat_wpf\\WpfApplication\\WpfApplication\\Futo.cs",
+              "RelativeToolTip": "WpfApplication\\Futo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:29:35.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\5_feladat_wpf\\WpfApplication\\WpfApplication\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApplication\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\5_feladat_wpf\\WpfApplication\\WpfApplication\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApplication\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T11:59:27.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\5_feladat_wpf\\WpfApplication\\WpfApplication\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApplication\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\5_feladat_wpf\\WpfApplication\\WpfApplication\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApplication\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T11:59:26.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+Acsadi Lajos;30,48;100
+Andrzej Wereszczak;26,92;100
+Aristide Necula;21,3;69
+Babinyecz Tamas;28,59;100
+Babinyecz Zoltan;28,34;100
+Badics Attila;28,35;100
+Bajcsi Sandor;29,15;100
+Bako Gabor;28,71;86
+Bakos Gabor;14,95;48
+Balint Evi;16,63;55
+Barath Anette Lora;18,04;58
+Barraud Sebastien;22,52;77
+Blasko Mihaly;29,74;100
+Bognar Akos;23,07;100
+Borsos Jozsef;31,48;100
+Bosznay Diana;12,55;52
+Brigita Burja;27,26;100
+Bucsak Gyozo;17,63;56
+Czaltig Zsolt;29,22;100
+Czunyi Karoly;22,26;79
+Csakany Krisztina;30,7;100
+Csapo Judit;32,3;100
+Csati Timea Viktoria;31,66;100
+Csuja Gabor;17,75;65
+Csurgai Adam;24,99;77
+Damjan Krejac;25,37;100
+Dan Lawson;18,51;100
+Darko Vadlja;9,27;32
+David Fiala;10,39;36
+Deak Csaba;29,05;100
+Derivaz;30,66;100
+Didzis Brauns;17,55;68
+Dombay Gabor;31,29;100
+dr. Bocskay arpad;19,63;58
+dr. Juhasz Mihaly;21,68;86
+dr. Korosi Koppany;6,07;27
+dr. Rudolf Jozsef;31,15;100
+dr. Szudi Laszlo;14,05;48
+Drevenka Zsolt;10;36
+Enyedine Dobai Henriett;28,2;100
+Erdelyi Laszlo;21,52;69
+Eugeniu Dedov;20,64;68
+Evetovics Milan;23,39;73
+Evetovics-Balla Hajnalka;16,38;56
+Fazekas Jani;17,96;58
+Fejer Zsuzsa;30,92;100
+Ferge Istvan;8,76;27
+File Balazs;24,74;100
+Florin-Sebastian Ionita;6,62;36
+Foldesi Jozsef;15,54;56
+Foszto Zsolt;30,85;100
+Fredrik Engdahl;28,49;100
+Galos Viktor;18,36;65
+Gered Laszlo;29,74;100
+Geszti Peter;22,07;73
+Gyorfi Janos;22,14;79
+Gyorvari Viktor;27,8;89
+Hajas Attila;19,53;56
+Horvath Tamas;33,59;100
+Horvath Zsolt;18,34;58
+Hosko Roland;26,92;100
+Huszak Katalin;17,09;58
+Huzsvay Edit;25,75;100
+Iancu David;18,46;68
+Ihasz Veronika;28,31;100
+Ioan Alexandru Strugariu;13,21;43
+Ivan Bretan;24,18;100
+Ivan Zaborskiy;30,2;100
+Jaana Thorstrom;14,09;48
+Janowszky Zoltan;29,41;100
+Jeszenszky Peter;29,02;100
+Jon Panter;22,09;84
+Juhasz Peter;27,33;100
+Kadar-Csoboth Peter;24,58;100
+Kaldi Peter;29,1;100
+Kapitanov Vilmos;21,34;69
+Karol Flejmer;28,68;100
+Kas Lisa;15,11;48
+Kele Attila;30,9;100
+Keresztesi Tamas;9,78;32
+Kincse Szabolcs;12,49;40
+Kishazi Gabor;20,47;64
+Kisne Forgony Andrea;15,09;43
+Kiss Zsolt;31,6;100
+Kocsy Barnabas;22,51;69
+Kollar Zoltan;28,53;100
+Kolluti Margit;28,66;100
+Kolonics Tamas;28,91;95
+Kormany Laszlo;15,96;58
+Kota Jozsef;16,12;52
+Kovacs Adam;20,58;79
+Kovacs Herman;13,69;48
+Kovacs Janos;17,59;56
+Kovecses Roland;16,3;52
+Kozma Zsolt;21,97;79
+Kreidl Csaba;27,57;100
+Kulcsar Lajos;27,79;86
+Laczko Istvan;21,66;69
+Laker Szucs Lajos;31,01;100
+Lang Istvan;29,42;100
+Lengyel Istvan;29,73;100
+Lorinczi Reka;20,68;65
+Luka Videtic;19,73;74
+Magosi Zoltan;16,8;58
+Maraz Zsuzsanna;22,53;100
+Marianne Kankaanmaki;21,4;73
+Marton-Mlecsenkov Eva;30,96;100
+Matej Markovic;7,3;36
+Mathe Zoltan;30,08;100
+Mathias Jorgensen;20,41;100
+Medgyessy Gergely;18,44;73
+Meszaros Csaba;15,05;58
+Meszaros Zoltan;26,81;82
+Michal Cinciala;26,48;100
+Mihalik Norbert;20,47;100
+Miorin;31,11;100
+Mirko Bogomir Miklic;21,45;100
+Moga Laurentiu Daniel;20,46;77
+Morosan Mara Alexandra;6,37;29
+Muller Peter;8,24;27
+Nagy Zsolt;29,97;100
+Napast Francisek;19,48;82
+Nedeczky Laszlo;30,64;100
+Nenad Stankovic;17,13;58
+Nenu Mariana;18,31;73
+Palasthy Istvan;31,66;100
+Palfi Laszlo;17,26;56
+Pall Attila;13,04;52
+Pallaruelo Gilles;29,63;100
+Papp Janos;28,45;100
+Papp Zoltan;24,65;100
+Pawel Kusnierz;29,82;100
+Per Ree;21,66;79
+Peteris Cabulis;29,68;100
+Peto Zsolt;16,6;52
+Petri Perttila;30,18;100
+Peyer Zoltan;16,39;73
+Preil Jozsef;27,89;100
+Racz Robert;23,62;100
+Radim Zapletal;30,59;100
+Radvanyi Andras;16,85;52
+Rakonczay Gabor;28,05;100
+Rasim Junuzovic;30,3;100
+Rikard Hallgren;11,07;36
+Rumanko Tibor;12,87;43
+Sakari Haka;27,93;100
+Sasa Markoja Popelar;16,43;52
+Schulcz Gabor;31,2;100
+Schulle Zsolt;31,77;100
+Seres Tibor;17,81;58
+Simon Peter;16,41;58
+Som Andras;20,43;65
+Soren Boserup;15,92;58
+Surjan Gergely;27,98;100
+Szabo Bela;21,49;77
+Szabo Peter;28,24;100
+Szaszi Tamas;30,38;100
+Szell Andrei;29,93;100
+Szilagyi Laszlo;17,11;56
+Szucs Lajos;22,84;79
+Taksonyi Szilard;28,65;100
+Tal Gabor;13,51;43
+Teglas Istvan;19,01;56
+Tilibasa Vasile;9,89;36
+Toldi Peter;25,22;100
+Toms Krisztian;21,38;77
+Torok Benjamin;28,24;100
+Torok Lajos;12,98;43
+Toth Attila;23,03;100
+Toth Istvan;22,86;77
+Tuske Zsolt;31,46;100
+Ugroczky Barna;15,63;58
+Urban Zsolt;15,3;68
+Utasi Akos;17,09;69
+Vaczko Zsolt;18,35;79
+Vamos Beata;4,25;14
+Varga Adam;21,12;69
+Varga Mate;14,99;48
+Vasas Levente;30,67;100
+Veres Szilard;24,67;100
+Ville Niemenmaa;30,18;100
+Vizer Daniel;18,95;69
+Weinber Ferenc;31,5;100
+Zarandy Andras;16,75;52
+Zentai Andrea;10,49;40
+Zoran Markovic;24,57;100

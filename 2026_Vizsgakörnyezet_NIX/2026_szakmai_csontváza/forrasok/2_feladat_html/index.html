@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vizsga Weboldal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="min-h-screen min-w-full bg-orange-400 text-black flex flex-col">
+
+    <header class="bg-orange-500 min-w-full flex flex-col">
+
+        <h1 class="my-4 sm:my-8 mx-auto text-3xl">Tablet Shop</h1>
+
+        <nav class="hidden sm:flex bg-orange-600 font-sans font-bold">
+            <ul class="gap-2 flex flex-row">
+                <li class="bg-orange-400 cursor-pointer p-2 ml-4">Készülékek</li>
+                <li class="bg-orange-600 cursor-pointer p-2">Rólunk</li>
+                <li class="bg-orange-600 cursor-pointer p-2">Elérhetőségeink</li>
+            </ul>
+        </nav>
+
+        <button id="mobile-menu-button" class="flex sm:hidden font-sans font-bold border max-w-fit border-black px-2 py-1 m-2">
+            M
+        </button>
+
+            <nav id="mobile-dropdown-menu" class="hidden font-sans font-bold min-w-fit absolute top-28 left-2">
+            <ul class="flex flex-col">
+                <li class="bg-orange-600 cursor-pointer p-2">Készülékek</li>
+                <li class="bg-orange-600 cursor-pointer p-2">Rólunk</li>
+                <li class="bg-orange-600 cursor-pointer p-2">Elérhetőségeink</li>
+            </ul>
+        </nav>
+    </header>
+
+
+<main class="min-w-full mx-4 mt-4 flex items-center">
+
+<section class="justify-between grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4">
+
+    <div class="max-w-56 flex flex-col bg-orange-500 m-4">
+        <img src="tablet1.jpg" alt="tablet_kepe">
+        <div class="px-2 mt-4">
+            <p class="text-xl font-bold">Leírás:</p>
+            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+            <p class="cursor-pointer text-orange-200 float-end mt-2">Részletek >></p>
+        </div>
+    </div>
+
+        <div class="max-w-56 flex flex-col bg-orange-500 m-4">
+        <img src="tablet2.jpg" alt="tablet_kepe">
+        <div class="px-2 mt-4">
+            <p class="text-xl font-bold">Leírás:</p>
+            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+            <p class="cursor-pointer text-orange-200 float-end mt-2">Részletek >></p>
+        </div>
+    </div>
+
+        <div class="max-w-56 flex flex-col bg-orange-500 m-4">
+        <img src="tablet3.jpg" alt="tablet_kepe">
+        <div class="px-2 mt-4">
+            <p class="text-xl font-bold">Leírás:</p>
+            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+            <p class="cursor-pointer text-orange-200 float-end mt-2">Részletek >></p>
+        </div>
+    </div>
+
+            <div class="max-w-56 flex flex-col bg-orange-500 m-4">
+        <img src="tablet4.jpg" alt="tablet_kepe">
+        <div class="px-2 mt-4">
+            <p class="text-xl font-bold">Leírás:</p>
+            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+            <p class="cursor-pointer text-orange-200 float-end mt-2">Részletek >></p>
+        </div>
+    </div>
+            <div class="max-w-56 flex flex-col bg-orange-500 m-4">
+        <img src="tablet5.jpg" alt="tablet_kepe">
+        <div class="px-2 mt-4">
+            <p class="text-xl font-bold">Leírás:</p>
+            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+            <p class="cursor-pointer text-orange-200 float-end mt-2">Részletek >></p>
+        </div>
+    </div>
+            <div class="max-w-56 flex flex-col bg-orange-500 m-4">
+        <img src="tablet6.jpg" alt="tablet_kepe">
+        <div class="px-2 mt-4">
+            <p class="text-xl font-bold">Leírás:</p>
+            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+            <p class="cursor-pointer text-orange-200 float-end mt-2">Részletek >></p>
+        </div>
+    </div>
+            <div class="max-w-56 flex flex-col bg-orange-500 m-4">
+        <img src="tablet7.jpg" alt="tablet_kepe">
+        <div class="px-2 mt-4">
+            <p class="text-xl font-bold">Leírás:</p>
+            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
+            <p class="cursor-pointer text-orange-200 float-end mt-2">Részletek >></p>
+        </div>
+    </div>
+
+</section>
+
+
+</main>
+
+
+    
+<script>
+
+    const button = document.getElementById("mobile-menu-button");
+    const menu = document.getElementById("mobile-dropdown-menu");
+
+    button.addEventListener("click", () => {
+        menu.classList.toggle('hidden');
+        menu.classList.toggle('flex');
+    })
+
+
+</script>
+
+</body>
+</html>

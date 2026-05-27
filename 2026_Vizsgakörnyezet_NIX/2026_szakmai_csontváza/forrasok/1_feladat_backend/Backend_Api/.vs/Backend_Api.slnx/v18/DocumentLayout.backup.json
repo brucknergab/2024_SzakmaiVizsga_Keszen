@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\controllers\\entitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\controllers\\entitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\dtos\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\dtos\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\backend_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\backend_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|c:\\users\\bruck\\documents\\nix\\3probavizsga\\2026_vizsgak\u00F6rnyezet_nix\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\backend_api\\backend_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E930481-7095-B9A9-165F-814703A8E008}|Backend_Api\\Backend_Api.csproj|solutionrelative:backend_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Backend_Api\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Backend_Api\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:26:35.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Backend_Api\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Backend_Api\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:28:05.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Data\\Repository.cs",
+              "RelativeDocumentMoniker": "Backend_Api\\Data\\Repository.cs",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Data\\Repository.cs",
+              "RelativeToolTip": "Backend_Api\\Data\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:02:24.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Backend_Api\\Helpers\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Backend_Api\\Helpers\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:21:36.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "Backend_Api\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Entities\\Entity.cs",
+              "RelativeToolTip": "Backend_Api\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:02:31.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dto.cs",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\DTOs\\Dto.cs",
+              "RelativeDocumentMoniker": "Backend_Api\\DTOs\\Dto.cs",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\DTOs\\Dto.cs",
+              "RelativeToolTip": "Backend_Api\\DTOs\\Dto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:23:41.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Backend_Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Backend_Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:05:43.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntityController.cs",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Controllers\\EntityController.cs",
+              "RelativeDocumentMoniker": "Backend_Api\\Controllers\\EntityController.cs",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Controllers\\EntityController.cs",
+              "RelativeToolTip": "Backend_Api\\Controllers\\EntityController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:05:33.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Service\\Service.cs",
+              "RelativeDocumentMoniker": "Backend_Api\\Service\\Service.cs",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Service\\Service.cs",
+              "RelativeToolTip": "Backend_Api\\Service\\Service.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:29:39.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Backend_Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Backend_Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T10:58:28.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Backend_Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\appsettings.Development.json",
+              "RelativeToolTip": "Backend_Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T12:27:41.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Backend_Api.http",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Backend_Api.http",
+              "RelativeDocumentMoniker": "Backend_Api\\Backend_Api.http",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Backend_Api.http",
+              "RelativeToolTip": "Backend_Api\\Backend_Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-20T12:27:54.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Backend_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\Program.cs",
+              "RelativeToolTip": "Backend_Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:05:21.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend_Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\bruck\\Documents\\NIX\\3Probavizsga\\2026_Vizsgak\u00F6rnyezet_NIX\\2026_szakmai_csontv\u00E1za\\forrasok\\1_feladat_backend\\Backend_Api\\Backend_Api\\appsettings.json",
+              "RelativeToolTip": "Backend_Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T12:27:39.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
